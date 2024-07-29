@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+#subtitle: 
+cover-img: /assets/img/canada.jpg
+#thumbnail-img: /assets/img/thumb.png
+#share-img: /assets/img/path.jpg
+#tags: [books, test]
+%author: Sharon Smith and Barry Simpson
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am Alan, an enthusiastic data scientist and interdisciplinary researcher with 10 years of experience in statistical modelling, machine learning and data visualisation, with a focus on understanding human learning and decision making under uncertainty. My passion for data analysis and applied mathematics drives me to translate complex questions into actionable insights to help organisations make strategic decisions and address societal challenges such as the spread of false news.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a curious and creative individual with a love of travelling, scuba diving, exploring different cultures and cuisines. I am committed to developing effective solutions for a sustainable future through my multi-faceted approach to knowledge and problem solving.
