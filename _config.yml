@@ -272,9 +272,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "minimal" #(changed by alan from "post")
     values:
-      layout: minimal #(changed by alan)layout: "post"
+      layout: "minimal" #(changed by alan)layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
