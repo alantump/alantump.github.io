@@ -1,6 +1,16 @@
+---
+layout: page
+title: Projects
+#subtitle: 
+#cover-img: /assets/img/canada.jpg
+#thumbnail-img: /assets/img/thumb.png
+#share-img: /assets/img/path.jpg
+#tags: [books, test]
+#author: Sharon Smith and Barry Simpson
+---
 
-# Research Projects Understanding Social Dynamics
 
+# Research Projects
 ## Understanding Social Dynamics
 
 Collective dynamics play a key role in everyday decision-making. Whether social influence promotes the spread of accurate information and ultimately results in adaptive behavior or leads to false information cascades and maladaptive social contagion strongly depends on the cognitive mechanisms underlying social interactions. A powerful tool to better understand the cognitive processes driving the temporal dynamics in collective decision making is cognitive modeling. Recently, I developed a social version of the drift diffusion model (DDM). The DDM assumes that individuals accumulate evidence over time until they research a decision threshold and decide. The dynamic social version of the DDM accounts for multiple individuals simultaneously accumulating evidence whereby the choices of one individual enters the evidence accumulation of other, undecided, individuals. We tested the model in an experiment showing that the model was able to recover the dynamics of the complete social decision-making process, accurately capturing how individuals integrate personal and social information dynamically over time. Using process models is a powerful tool to understand social and collective decision making, by linking (cognitive) processes at the individual and collective level. ([Read more](https://www.science.org/doi/10.1126/sciadv.abb0266)).
@@ -12,3 +22,9 @@ Misinformation often spreads unchecked through groups, leading to dramatic conse
 
 Why do people fall for misinformation? In a series of studies, I aim to shed light in these questions.
 In our rapidly evolving social landscape, the phenomenon known as social acceleration is becoming increasingly prevalent. We consume more and more online media in little time. Together with [Mubashir Sultan](https://www.mpib-berlin.mpg.de/person/mubashir-sultan/419405), we investigated how such time pressure influenced the people’s ability to distinguish true and false news. Our findings reveal that time pressure significantly impairs discrimination ability, making it harder for individuals to accurately judge the veracity of news. Interestingly, time pressure did not affect the overall tendency to belief news. In other words, participants did not turn naive and simply believed news under time pressure ([Read more](https://www.nature.com/articles/s41598-022-26209-8)).   
+
+In collaboration with Anton Gollwitzer, I introduced the Dynamic Semi-Integrative Approach (DSIA) to comprehensively evaluate various interventions designed to reduce false news sharing. Our findings indicate that warning labels and media literacy interventions are particularly effective, followed by social norm interventions. Accuracy prompts were the least effective. These interventions proved consistent across different demographic and psychological profiles, highlighting their broad applicability.
+
+Our systematic meta-analysis further identifies key demographic and psychological factors that influence misinformation susceptibility. Older age, higher analytical thinking skills, and Democratic affiliation are associated with better discrimination ability. Conversely, ideological congruency, motivated reflection, and familiarity contribute to a true-news bias, indicating a tendency to believe news is true.
+
+Our research provides critical insights into the dynamics of social acceleration and misinformation, offering valuable guidance for designing targeted interventions to mitigate the spread of false information.
