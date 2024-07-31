@@ -12,14 +12,10 @@ Collective dynamics play a key role in everyday decision-making. Whether social 
 
 
 
-Misinformation often spreads unchecked through groups, leading to dramatic consequences such as panicked crowds, economic bubbles, or police shootings involving innocent victims. In these situations, individuals are often biased towards "better being safe than sorry". These biases lead to maladaptive behavior as individual biases tend to be amplified in social situations. In this study we investigated why and how individuals who prefer "being safe than sorry" in such a game-theoretical setting by combining social Decision Diffusion Models (DDM) with an evolutionary algorithm. We find that cooperative individuals in large groups do not exhibit response biases (towards "better being safe than sorry"), as such biases quickly amplify within groups. However, selfish individuals develop high response biases and delay their actions to wait for others' information, thereby undermining the group's performance for personal gain. This significantly increases the likelihood of misinformation spreading. ([Read more](https://doi.org/10.1371/journal.pcbi.1010442)).
+Misinformation often spreads unchecked through groups, leading to dramatic consequences such as panicked crowds, economic bubbles, or police shootings involving innocent victims. In these situations, individuals are often biased towards "better being safe than sorry". These biases lead to maladaptive behavior as individual biases tend to be amplified in social situations. In this study we investigated why and how individuals who prefer "being safe than sorry" in such a game-theoretical setting by combining social Decision Diffusion Models (DDM) with an evolutionary algorithm. We find that cooperative individuals in large groups do not exhibit response biases (towards "better being safe than sorry"), as such biases quickly amplify within groups. However, selfish individuals develop high response biases and delay their actions to wait for others' information, thereby undermining the group's performance for personal gain. This significantly increases the likelihood of false information spreading. ([Read more](https://doi.org/10.1371/journal.pcbi.1010442)).
 
-![alan](/assets/img/Alan_behind.webp)
 
-<img src="/assets/img/Alan_behind.webp" width="355px" height="370px" /> //355 x 370
-
-![news](/assets/img/news.png)
-
+<img src="/assets/img/Alan_behind.webp" width="308px" height="295px" /> 
 
 ## Understanding the spread of online false information 
 
@@ -27,6 +23,10 @@ Why do people fall for misinformation? In a series of studies, I aim to shed lig
 In our rapidly evolving social landscape, the phenomenon known as social acceleration is becoming increasingly prevalent. We consume more and more online media in little time. Together with [Mubashir Sultan](https://www.mpib-berlin.mpg.de/person/mubashir-sultan/419405), we investigated how such time pressure influenced the people’s ability to distinguish true and false news. Our findings reveal that time pressure significantly impairs discrimination ability, making it harder for individuals to accurately judge the veracity of news. Interestingly, time pressure did not affect the overall tendency to believe news. In other words, participants did not turn naive and simply believe news under time pressure ([Read more](https://www.nature.com/articles/s41598-022-26209-8)).   
 
 In another project, I investigated the effectiveness of promising interventions against false news sharing, contributing to a broader understanding of how to combat misinformation. In collaboration with [Anton Gollwitzer](https://www.antongollwitzer.org/), I introduced the Dynamic Semi-Integrative Approach (DSIA) to comprehensively evaluate different interventions to reduce false news sharing and the underlying cognitive mechanisms. I also developed an app that visualizes how interventions influence the underlying decision-making processes [App](https://alan-tump.shinyapps.io/DSIA/).  
+
+
+
+<img src="/assets/img/news.png" width="325px" height="384px" /> 
 
 
 <!---
