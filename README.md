@@ -1,3 +1,28 @@
+# Repository for Alans personal website.
+
+
+Thanks to the creators of Beatiful Jekyll for the template.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Beautiful Jekyll
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
