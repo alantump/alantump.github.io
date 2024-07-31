@@ -26,7 +26,7 @@ In another project, I investigated the effectiveness of promising interventions 
 
 
 
-<img src="/assets/img/news.png" width="325px" height="384px" /> 
+<img src="/assets/img/news.png" width="384px" height="325px" /> 
 
 
 <!---
