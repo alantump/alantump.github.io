@@ -4,27 +4,19 @@
 Thanks to the creators of Beatiful Jekyll for the template.  
 
 
-
-
-
-\\
-\\
-\\
-\\
-\\
-\\
-\\
-\\
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+_________________________________
 
 
 
