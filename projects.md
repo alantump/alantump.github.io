@@ -16,7 +16,7 @@ Misinformation often spreads unchecked through groups, leading to dramatic conse
 
 ![alan](/assets/img/Alan_behind.webp)
 
-<img src="/assets/img/Alan_behind.webp" width="200px" height="200px" />
+<img src="/assets/img/Alan_behind.webp" width="355px" height="370px" /> //355 x 370
 
 ![news](/assets/img/news.png)
 
