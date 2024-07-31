@@ -12,6 +12,8 @@ Collective dynamics play a key role in everyday decision-making. Whether social 
 
 Misinformation often spreads unchecked through groups, leading to dramatic consequences such as panicked crowds, economic bubbles, or police shootings involving innocent victims. In these situations, individuals are often biased towards "better being safe than sorry". These biases lead to maladaptive behavior as individual biases tend to be amplified in social situations. In this study we investigated why and how individuals who prefer "being safe than sorry" in such a game-theoretical setting by combining social Decision Diffusion Models (DDM) with an evolutionary algorithm. We find that cooperative individuals in large groups do not exhibit response biases (towards "better being safe than sorry"), as such biases quickly amplify within groups. However, selfish individuals develop high response biases and delay their actions to wait for others' information, thereby undermining the group's performance for personal gain. This significantly increases the likelihood of misinformation spreading. ([Read more](https://doi.org/10.1371/journal.pcbi.1010442)).
 
+![image](/assets/img/Alan_behind.webp)
+![image](/assets/img/news.png)
 
 ## Understanding the spread of online false information 
 
